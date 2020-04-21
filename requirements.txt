@@ -1,0 +1,8 @@
+samplerate
+gtts
+scipy
+numpy
+audiotsm
+pydub
+librosa
+soundfile
